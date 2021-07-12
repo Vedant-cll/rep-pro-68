@@ -1,0 +1,45 @@
+marquee{
+    background-color: black;
+    color: white;
+font-size: 30px;
+    border: 5px solid #579472
+     
+}
+body{
+    text-align: center;
+    background:#397353;
+}
+#image1{
+    height: 150px;
+    width: 400px;    
+        border: 8px solid black;
+}
+#image2{
+    height: 500px;
+    width: 500;
+        border: 10px solid black;
+}
+.menu{
+    list-style: none;
+    font-family: fantasy;
+    top: 1px;
+      cursor: pointer;
+}
+.link{
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 25px;
+}
+h2{
+    color: white;
+        font-family:'Odibee Sans', cursive ;
+    font-size: 40px;
+}
+h1{
+    color: white;
+    font-family: 'Odibee Sans', cursive;
+    font-size: 50px;
+}
